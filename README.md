@@ -28,6 +28,23 @@ I'm a passionate **Full Stack Developer** specializing in **MERN Stack (MongoDB,
 
 ---
 
+### 💼 My Projects
+
+#### 🚀 [YUG-AI (AI Chat App)](http://34.42.233.32:5000/)
+An AI-powered MERN Stack application with real-time chat, admin dashboard, and Mistral AI integration.  
+> 🌐 Hosted on Google Cloud VM  
+> Role-based Auth | Smart AI | User Management
+
+#### 🛒 [E-Commerce Website](https://e-commerce-frontend-7fbr.onrender.com/)
+A full-stack e-commerce platform built with MERN stack, featuring product listings, user authentication, and cart functionality.  
+> ⚙️ Node.js + MongoDB | 🛍️ React Frontend | Hosted on Render
+
+#### 🏢 [Business Website](https://website-omega-seven-71.vercel.app/)
+A professional responsive business site showcasing products and services.  
+> 📱 Built with React & Bootstrap | 🧩 Hosted on Vercel
+
+---
+
 ### 📈 My GitHub Stats
 
 ![Yugal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yugalkishore&show_icons=true&theme=react&count_private=true)  
@@ -45,7 +62,7 @@ I'm a passionate **Full Stack Developer** specializing in **MERN Stack (MongoDB,
 
 ### 📬 Connect with Me
 
-- 🌐 Portfolio: *Coming Soon...*  
+
 - 📩 Email: **[yugaldhiman14@gmail.com]**  
 - 💼 LinkedIn: [linkedin.com/in/yugalkishore14](https://www.linkedin.com/in/yugalkishore14/)
 
